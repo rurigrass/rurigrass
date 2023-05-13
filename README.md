@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+My name is Ruairidh and I'm a software developer based in Prague.
+
+🔭 I’m currently working on lots of projects
+🌱 I’m currently learning:
+
+Next 13
+Three.js
+
 <!--
 **rurigrass/rurigrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
