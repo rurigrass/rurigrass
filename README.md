@@ -8,8 +8,8 @@
 My name is Ruairidh and I'm a software developer based in Prague.
 
 🔭 I’m currently working on lots of projects
-🌱 I’m currently learning:
 
+🌱 I’m currently learning:
 Next 13
 Three.js
 
