@@ -7,11 +7,10 @@
 
 My name is Ruairidh and I'm a software developer based in Prague.
 
-🔭 I’m currently working on lots of projects
+🔭 I’m currently working on MemeMappr, it will be big when I finish it, I promise!
 
-🌱 I’m currently learning:
-Next 13
-Three.js
+🌱 Currently playing around with:
+Next 14, Tanstack, Prisma, AuthJS, PostgreSQL, MySQL, TailwindCSS, Framer Motion, Three.js and so many more
 
 <!--
 **rurigrass/rurigrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
