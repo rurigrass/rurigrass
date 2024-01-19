@@ -7,7 +7,7 @@
 
 My name is Ruairidh and I'm a software developer based in Prague.
 
-🔭 I’m currently working on MemeMappr, It's a GeoGuessr type game in which the user has to guess the location of each Meme the game shows you. It will be big when I finish it, I promise!
+🔭 I’m currently learning ThreeJS and working on MemeMappr, It's a GeoGuessr type game in which the user has to guess the location of each Meme the game shows you. It will be big when I finish it, I promise!
 
 🌱 Currently playing around with:
 Next 14, Tanstack, Prisma, AuthJS, PostgreSQL, MySQL, NoSQL, MongoDB, TailwindCSS, Framer Motion, Three.js and so many more
